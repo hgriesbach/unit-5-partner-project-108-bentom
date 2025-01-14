@@ -1,0 +1,34 @@
+{
+    "name": "Unit-5-Partner-Project-1.08-Ben/Tom",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "background": "pkg:background.json"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "background.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.11.37",
+        "tag": "v1.11.37",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/bf992d35ca2baeaa26d773aac7caad5a152c45aa",
+        "target": "1.12.58",
+        "pxt": "8.4.30",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
